@@ -27,6 +27,14 @@ p{
   display: flex;
   flex-wrap: wrap;
 }
+
+.presentation{
+    background-image: url(immagini/web-design-2906159_1920.jpg);
+    background-size: cover;
+    background-position: center;
+    z-index: -5;
+}
+
 @media only screen and (max-width: 480px) {
   nav{
     width: 100%;
